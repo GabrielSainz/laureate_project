@@ -1,0 +1,32 @@
+,Columns,realtive_importance,cumulative_importance
+5,JobLevel,0.07646557,0.07646557
+6,TotalWorkingYears,0.07034034,0.14680591
+4,WorkedOverTime,0.06428332,0.21108922
+11,JobInvolvement,0.05655266,0.26764187
+8,Single,0.052030455,0.31967232
+10,NumberCompaniesWorked,0.043376334,0.36304864
+23,YearsSinceLastPromotion,0.04068965,0.4037383
+1,YearsInCurrentRole,0.04037329,0.4441116
+3,MonthlyIncome,0.040351085,0.48446268
+15,Travel_Frequently,0.039889786,0.5243525
+2,YearsAtCompany,0.039506447,0.5638589
+14,JobSatisfaction,0.03708582,0.60094476
+24,Research & Development,0.036761746,0.6377065
+13,EnvironmentSatisfaction,0.035855472,0.673562
+7,Age,0.035359252,0.70892125
+30,Marketing,0.035089944,0.7440112
+21,Laboratory Technician,0.03431572,0.7783269
+28,RelationshipSatisfaction,0.0320993,0.81042624
+18,DistanceFromHome(KMs),0.031649597,0.8420758
+20,WorkLifeBalance,0.031130925,0.87320673
+0,YearsWithCurrentManager,0.030959742,0.90416646
+26,MonthlyRate,0.027760288,0.9319267
+29,PercentSalaryHike,0.019428812,0.9513555
+25,Sales,0.01611298,0.9674685
+17,TrainingTimeLastYear(Weeks),0.013435371,0.98090386
+9,Sales Representative,0.011747606,0.99265146
+22,Married,0.0073484774,0.99999994
+16,Manager,0.0,0.99999994
+19,Manufacturing Director,0.0,0.99999994
+12,Research Director,0.0,0.99999994
+27,Technical Degree,0.0,0.99999994
